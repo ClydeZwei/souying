@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(254,203,203);
+}
+.content{
+    text-align: center;
+}
+.souying{
+    width: 200px;
+}
+.return{
+    position: absolute;
+    display: block;
+    right: 10px;
+}
+.login-button{
+    width: 230px;
+    height: 60px;
+    background-color: rgb(252,104,104);
+    border-radius: 20px 0px 0px 20px;
+}
+.register-button{
+    width: 230px;
+    height: 60px;
+    background-color: rgb(251,175,175);
+    margin-left: -5px;
+    border-radius: 0px 20px 20px 0px;
+}
+.login input{
+    padding-left: 50px;
+    width: 400px;
+    height: 40px;
+    border-radius: 20px;
+}
+.login img{
+    position: relative;
+    top: 38px;
+    left: 20px;
+}
+.login-click-button{
+    background-color: rgb(253,128,128);
+    border-radius: 10px;
+    margin-top: 15px;
+    width: 400px;
+    height: 40px;
+}
